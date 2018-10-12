@@ -10,7 +10,7 @@ public class Main {
            output+=i;
            i++;
        }
-       System.out.println(output);
+       System.out.println("The sum from 1 to"+n+"is"+output+".");
 
     }
 }
